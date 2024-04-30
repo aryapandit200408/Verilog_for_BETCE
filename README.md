@@ -9,8 +9,10 @@ This would be very helpful for those who want to move forward in the digital ele
 
 ![81GDEgMEtiL _SY466_](https://github.com/aryapandit200408/Verilog_for_BETCE/assets/115896451/02e282d8-6ce6-4cc2-9aab-821ac41cfd95)
 
-2. If you wish to brush up your concepts through YouTube videos, you can use ![playlist 1]() or ![playlist 2]()
+2. If you wish to brush up your concepts through YouTube videos, you can use [playlist 1]() or [playlist 2]()
 
 
 ### Getting Started 
-#### 1. Download Verilog
+#### 1. Verilog using Vivado
+This is perhaps the easiest way to get started since the UI is very easy and you can directly code FPGAs after synthesis and implementation. 
+Head over to the Vivado Download page and install. [link](https://www.xilinx.com/support/download/index.html/content/xilinx/en/downloadNav/vivado-design-tools.html)
