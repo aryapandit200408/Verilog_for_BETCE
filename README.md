@@ -1,4 +1,4 @@
-# Verilog_for_BETCE
+# Verilog_for_BETCE_Digital_Lab
 This is a repository that will help you get started with Verilog. This manual has been designed to be done alongside Prof. Mrinal Kanti Naskar Sir's Digital 1 and 2 Lab. 
 This would be very helpful for those who want to move forward in the digital electronics domain for research and jobs. 
 
@@ -43,7 +43,7 @@ Head over to the Vivado Download page [here](https://www.xilinx.com/support/down
 You must finish this series up to video number 22, ie. writing test benches. Don't forget to make notes as these would come in handy during interviews. By now the theory part of how a simple Verilog code works and the testbench part would be clear.
 3. **Getting suited:** Go to [ProblemSets-HDLBits](https://hdlbits.01xz.net/wiki/Problem_sets) and attempt all the questions.
 Try applying you knowledge from the lectures and you own understanding. Please refrain from just getting the answer using chatgpt or the internet, without even trying.
-4. **Doubts:** At any point if you feel any doubt on a certain topic, revisit those parts from Samir Palnitkar's Book or ChipVerify's website, or the NPTEL Lecture
+4. **Doubts:** At any point if you feel any doubt on a certain topic, revisit those parts from Samir Palnitkar's Book, ChipVerify's website, or the NPTEL Lecture
 5. **Vivado:** After covering HDLBits, you are supposed to move on to vivado.
 6. **Assignments:** Try replicating MKN Sir's assignments in Vivado using all the knowledge you have gained till now.
    Let's take an example to illustrate the process:-
@@ -62,4 +62,4 @@ Try applying you knowledge from the lectures and you own understanding. Please r
       You would have to directly upload your bitstream onto an FPGA. If there are no logical errors, your implementation should work fine.
    10. If you have been able to succesfully implement all the above steps, **then congrats! you have successfully learned to use Verilog! and have just completed your first implementation! Proud of You!**
 
-**In some cases like basic sequential circuits like flip flops, it is impossible to run implementation or generate bitstream for Gate Level or Dataflow Level design. For these behavioral design should only be used. Why?*
+**In some cases like basic sequential circuits like flip flops, it is impossible to run implementation or generate bitstream for Gate Level or Dataflow Level design. For these behavioral design should only be used: Why?*
