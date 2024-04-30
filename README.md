@@ -19,11 +19,17 @@ Head over to the Vivado Download page [here](https://www.xilinx.com/support/down
 
 #### 2. [Verilog using EDA Playground](https://www.edaplayground.com/)
 
-#### 3. Verilog using QUARTUS
+#### 3. Verilog using Quartus
 
 #### 4. [HDLbits Online Verilog Simulator](https://hdlbits.01xz.net/wiki/Iverilog)
 
 #### 5. Icarus Verilog
 
 
-### Learning Verilog
+### Learning Verilog 
+#### 1. Book - Samir Palnitkar
+![81k7JGO7o6L _SY466_](https://github.com/aryapandit200408/Verilog_for_BETCE/assets/115896451/a8c5ef9c-3781-4b6a-963f-200f721fbab8)
+
+#### 2. Youtube Playlist - Hardware Modeling using Verilog [Link](https://www.youtube.com/playlist?list=PLJ5C_6qdAvBELELTSPgzYkQg3HgclQh-5)
+
+#### 3. Website - 
