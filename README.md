@@ -32,4 +32,31 @@ Head over to the Vivado Download page [here](https://www.xilinx.com/support/down
 
 #### 2. Youtube Playlist - Hardware Modeling using Verilog [Link](https://www.youtube.com/playlist?list=PLJ5C_6qdAvBELELTSPgzYkQg3HgclQh-5)
 
-#### 3. Website - 
+#### 3. Website - Chip Verify [Link](https://www.chipverify.com/tutorials/verilog)
+
+### Recommended Roadmap
+1. **Prerequisites:** Have your digital circuits-1 concepts ready
+2. **Basic Knowledge:** Start with Indranil Sengupta's lecture series [Link](https://www.youtube.com/playlist?list=PLJ5C_6qdAvBELELTSPgzYkQg3HgclQh-5)
+You must finish this series up to video number 22, ie. writing test benches. Don't forget to make notes as these would come in handy during interviews. By now the theory part of how a simple Verilog code works and the testbench part would be clear.
+3. **Getting suited:** Go to [ProblemSets-HDLBits](https://hdlbits.01xz.net/wiki/Problem_sets) and attempt all the questions.
+Try applying you knowledge from the lectures and you own understanding. Please refrain from just getting the answer using chatgpt or the internet, without even trying.
+4. **Doubts:** At any point if you feel any doubt on a certain topic, revisit those parts from Samir Palnitkar's Book or ChipVerify's website, or the NPTEL Lecture
+5. **Vivado:** After covering HDLBits, you are supposed to move on to vivado.
+6. **Assignments:** Try replicating MKN Sir's assignments in Vivado using all the knowledge you have gained till now.
+   Let's take an example to illustrate the process:-
+   1. Let's say you were given a multiplexer to design in digital lab.
+   2. Now you need to design the same in Verilog.
+   3. Write codes for:-
+      a) Gate Level Implementation*
+      b) Dataflow Level Implementation*
+      c) Behavioral Implementation
+   4. Write the testbench code and perform a simulation to achieve functional coverage.
+   5. Elaborate the Design
+   6. Run Synthesis for the design for each of the 3 types of codes. If some errors or critical warnings for each of them, debug your code.
+   7. Run Implementation for the design for each of the 3 types of codes. If some error or critical warnings for each of the 3 types of implementation, debug your code.
+   8. Generate Bitstream for the code. This step will likely cause the most errors however having the knowledge and patience to debug them will be crucial.
+   9. After successful bitstream generation, you may now enter the final and most rewarding step: **Coding an FPGA**
+      You would have to directly upload your bitstream onto an FPGA. If there are no logical errors, your implementation should work fine.
+   10. If you have been able to succesfully implement all the above steps, **then congrats! you have successfully learned to use Verilog! and have just completed your first implementation! Proud of You!**
+
+**In some cases like basic sequential circuits like flip flops, it is impossible to run implementation or generate bitstream for Gate Level or Dataflow Level design. For these behavioral design should only be used. Why?*
