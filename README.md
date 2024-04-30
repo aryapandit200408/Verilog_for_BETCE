@@ -4,7 +4,7 @@ This would be very helpful for those who want to move forward in the digital ele
 
 
 
-## Prerequisites
+## Prerequisites: Knowledge of Digital Circuits
 1. You will need to learn the fundamentals of Digital Circuits (specifically Digital Logic Circuits-I and FSM from Digital Logic Circuits-II).
    One great book is Digital Design by Morris Mano (Verilog and System Verilog Language included version).
 
