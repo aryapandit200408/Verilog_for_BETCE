@@ -72,6 +72,7 @@ With this step you have covered almost all basic digital components. Now it is t
 
 
 Digital Circuits II
+
 7. **Learning:** After digital-1, and after learning FSMs. Do the rest of NPTEL Lectures [Link](https://www.youtube.com/playlist?list=PLJ5C_6qdAvBELELTSPgzYkQg3HgclQh-5)
 8. **System Design:** In Digital Logic Circuits II lab, with each lab try designing the given system with both the control unit (FSM) and logic unit (DataUnit).
 9. **Assignments:** Try replicating MKN Sir's assignments in Vivado using all the knowledge you have gained till now.
@@ -83,11 +84,14 @@ Digital Circuits II
    5. Elaborate the Design
    6. Run Synthesis for the design. If some errors or critical warnings for each of them, debug your code.
    7. Run Implementation for the design. If some error or critical warnings for each of the 3 types of implementation, debug your code.
-   8. Generate Bitstream for the code. This step will likely cause the most errors however having the knowledge and patience to debug them will be crucial. Lookout for the combinational loop error! 
+   8. Generate Bitstream for the code. This step will likely cause the most errors however having the knowledge and patience to debug them will be crucial. Lookout for the combinational loop error!**
    9. After successful bitstream generation, you may now enter the final and most rewarding step: **Coding an FPGA**
       You would have to directly upload your bitstream onto an FPGA. If there are no logical errors, your implementation should work fine.
    10. If you have been able to succesfully implement all the above steps, **then congrats! you have successfully learned to design a system and implement it on verilog! Proud of You!**
-With this step you have understood how to design intermeadiate level systems and that is commendable. For those who will be trying for summer research internships during 2nd year and are interested in research statements involving knowedge of digital, may also list each of these implementationa as singular short projects under the "personal projects" section of your CV. This will certainly increase you chances of selection, if you don't have any other relevant projects to show!
+With this step you have understood how to design intermeadiate level systems and that is commendable.
+
+For those who will be trying for summer research internships during 2nd year and are interested in research statements involving knowedge of digital, may also list each of these implementationa as singular short projects under the "personal projects" section of your CV. This will certainly increase you chances of selection, if you don't have any other relevant projects to show.
 
 
 **In some cases like basic sequential circuits like flip flops, it is impossible to run implementation or generate bitstream for Gate Level or Dataflow Level design. For these behavioral design should only be used: Why?*
+***I had this error quite a few times, can you avoid it? How?*
