@@ -15,4 +15,15 @@ This would be very helpful for those who want to move forward in the digital ele
 ### Getting Started 
 #### 1. Verilog using Vivado
 This is perhaps the easiest way to get started since the UI is very easy and you can directly code FPGAs after synthesis and implementation. 
-Head over to the Vivado Download page and install. [link](https://www.xilinx.com/support/download/index.html/content/xilinx/en/downloadNav/vivado-design-tools.html)
+Head over to the Vivado Download page [here](https://www.xilinx.com/support/download/index.html/content/xilinx/en/downloadNav/vivado-design-tools.html).
+
+#### 2. [Verilog using EDA Playground](https://www.edaplayground.com/)
+
+#### 3. Verilog using QUARTUS
+
+#### 4. [HDLbits Online Verilog Simulator](https://hdlbits.01xz.net/wiki/Iverilog)
+
+#### 5. Icarus Verilog
+
+
+### Learning Verilog
