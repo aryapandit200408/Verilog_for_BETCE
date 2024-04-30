@@ -94,4 +94,5 @@ For those who will be trying for summer research internships during 2nd year and
 
 
 **In some cases like basic sequential circuits like flip flops, it is impossible to run implementation or generate bitstream for Gate Level or Dataflow Level design. For these behavioral design should only be used: Why?*
+
 ***I had this error quite a few times, can you avoid it? How?*
