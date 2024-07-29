@@ -97,6 +97,8 @@ Those who will be trying for summer research internships during 2nd year and are
 
 ***I had this error quite a few times, can you avoid it? How?*
 
+<br>
+<br>
 
 
 <center> Made with ❤️ by Arya Pandit Batch '26</center>
