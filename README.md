@@ -102,6 +102,7 @@ Those who will be trying for summer research internships during 2nd year and are
 
 
 <p align="center"> 
-   Made with ❤️ by Arya Pandit ETCE'26
+   Made with ❤️ by Arya Pandit ETCE'26 </p>
+<p align="center">
    Feel free to reach out for any doubts or if you want to contribute to this repository! Happy Learning!
 </p>
