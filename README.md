@@ -101,4 +101,7 @@ Those who will be trying for summer research internships during 2nd year and are
 <br>
 
 
-<center> Made with ❤️ by Arya Pandit Batch '26</center>
+<p align="center"> 
+   Made with ❤️ by Arya Pandit ETCE'26
+   Feel free to reach out for any doubts or if you want to contribute to this repository! Happy Learning!
+</p>
