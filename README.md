@@ -38,21 +38,25 @@ This would be very helpful for those who want to move forward in the digital ele
   <a href="https://www.amazon.in/Verilog-Hdl-Samir-Palnitkar/dp/8177589180/ref=sr_1_2?crid=3A2KJAUID548K&dib=eyJ2IjoiMSJ9.MAIPZEcAtCW6bUJ5YKXJ-PlbAq-MTRHC4q-7nA_wDML2VEMBcNPMySbH930Hh3fUQgMYWCfwSULkbt3-jfLWIG5b6Vydi_RL40j3VDFt045nsEBkKj4sBwy6tFMLebgKx4MVt8ppmUYCl_G0VUfc_EQ_byr0QOp6y19ubukTB-SLcdP-7dRrVdxF1Cb3TEA7eqg9FyjO0QeUVU8bx9JLNgELh4tOFwYHtnnn72PkGpc.cugXMmJQ-ToFLfhxqALa2VfzYkYZR2EKC29SBHdX7D4&dib_tag=se&keywords=verilog+hdl+samir+palnitkar&qid=1714505981&sprefix=verilo%2Caps%2C275&sr=8-2"> <img src="https://github.com/aryapandit200408/Verilog_for_BETCE/assets/115896451/a8c5ef9c-3781-4b6a-963f-200f721fbab8"> </a>
 </p>
 
-2. Youtube Playlist - Hardware Modeling using Verilog [Link](https://www.youtube.com/playlist?list=PLJ5C_6qdAvBELELTSPgzYkQg3HgclQh-5)
+2. Youtube Playlist - Hardware Modeling using Verilog by Indranil Sengupta [Link](https://www.youtube.com/playlist?list=PLJ5C_6qdAvBELELTSPgzYkQg3HgclQh-5)
+   a) While in Digital-1: Watch this series until video number 22, ie. writing test benches. Don't forget to make notes as these would be useful during interviews. The theory part of how a simple Verilog code works and the testbench part would be clear.
+   b) While in Digital-2: Watch the rest of the lectures. 
+
+Other Resources:-
 3. Website - Chip Verify [Link](https://www.chipverify.com/tutorials/verilog)
+
+Try following only one of these resources whichever suits your style.
 
 
 
 ## Recommended Roadmap
-Digital Circuits I
+#### Digital Circuits I
 1. **Prerequisites:** Have your Digital Circuits-1 concepts ready
-2. **Basic Knowledge:** Start with Indranil Sengupta's lecture series [Link](https://www.youtube.com/playlist?list=PLJ5C_6qdAvBELELTSPgzYkQg3HgclQh-5)
-You must finish this series up to video number 22, ie. writing test benches. Don't forget to make notes as these would come in handy during interviews. By now the theory part of how a simple Verilog code works and the testbench part would be clear.
-3. **Getting suited:** Go to [ProblemSets-HDLBits](https://hdlbits.01xz.net/wiki/Problem_sets) and attempt all the questions.
+2. **Getting suited:** Go to [ProblemSets-HDLBits](https://hdlbits.01xz.net/wiki/Problem_sets) and attempt all the questions.
 Try applying you knowledge from the lectures and you own understanding. Please refrain from just getting the answer using chatgpt or the internet, without even trying.
-4. **Doubts:** At any point if you feel any doubt on a certain topic, revisit those parts from Samir Palnitkar's Book, ChipVerify's website, or the NPTEL Lecture
-5. **Vivado:** After covering HDLBits, you are supposed to move on to vivado.
-6. **Assignments:** Try replicating MKN Sir's assignments in Vivado using all the knowledge you have gained till now.
+3. **Doubts:** At any point if you feel any doubt on a certain topic, revisit those parts from Samir Palnitkar's Book, ChipVerify's website, or the NPTEL Lecture
+4. **Vivado:** After covering HDLBits, you are supposed to move on to vivado.
+5. **Assignments:** Try replicating MKN Sir's assignments in Vivado using all the knowledge you have gained till now.
    Let's take an example to illustrate the process:-
    1. Let's say you were given a multiplexer to design in digital lab.
    2. Now you need to design the same in Verilog.
@@ -71,11 +75,11 @@ Try applying you knowledge from the lectures and you own understanding. Please r
 With this step, you have covered almost all basic digital components. Now it is time to move into designing intermediate-level systems in Verilog.
 
 
-Digital Circuits II
+#### Digital Circuits II
 
-7. **Learning:** After digital-1, and after learning FSMs. Do the rest of the NPTEL Lectures [Link](https://www.youtube.com/playlist?list=PLJ5C_6qdAvBELELTSPgzYkQg3HgclQh-5)
-8. **System Design:** In Digital Logic Circuits II lab, with each lab try designing the given system with both the control unit (FSM) and logic unit (DataUnit).
-9. **Assignments:** Try replicating MKN Sir's assignments in Vivado using all the knowledge you have gained till now.
+6. **Learning:** After digital-1, and after learning FSMs. Do the rest of the NPTEL Lectures [Link](https://www.youtube.com/playlist?list=PLJ5C_6qdAvBELELTSPgzYkQg3HgclQh-5)
+7. **System Design:** In Digital Logic Circuits II lab, with each lab try designing the given system with both the control unit (FSM) and logic unit (DataUnit).
+8. **Assignments:** Try replicating MKN Sir's assignments in Vivado using all the knowledge you have gained till now.
    Let's take an example to illustrate the process:-
    1. Let's say you were given a Bus Based System to design in digital lab.
    2. Now you need to design the same in Verilog.
@@ -90,12 +94,37 @@ Digital Circuits II
    10. If you have been able to succesfully implement all the above steps, **then congrats! you have successfully learned to design a system and implement it on Verilog! Proud of You!**
 With this step, you have understood how to design intermediate-level systems and that is commendable.
 
-Those who will be trying for summer research internships during 2nd year and are interested in research statements involving knowledge of digital may also list each of these implementations as singular short projects under the "personal projects" section of your CV. This will certainly increase your chances of selection if you don't have any other relevant projects to show.
-
-
+Could you answer these questions?
 **In some cases like basic sequential circuits like flip flops, it is impossible to run implementation or generate bitstream for Gate Level or Dataflow Level design. For these behavioral design should only be used: Why?*
 
 ***I had this error quite a few times, can you avoid it? How?*
+
+## Further Steps
+If you wish to continue in the digital design domain, you may try some intermediate-level projects at this point. I have listed down some paths that you could embark on.
+<ul> 
+   <li> Exploring FPGAs 
+   <ul> 
+      <li> Digital Signal Processing Applications on FPGA </li>
+      <li> Accelerating Fast Fourier Transforms on FPGAs </li>
+      <li> Image Processing on FPGAs </li>
+      <li> ML acceleration on FPGAs </li>
+   </ul>
+   </li>
+   <li>Exploring Computer Architecture and High-Performance Computing Domains (though it won't require direct use of Verilog)
+   <ul>
+      <li> Exploring GPUs </li>
+      <li> Exploring In-Memory Computing </li>
+      <li> Exploring Network on Chip Architectures </li>
+      <li> Exploring Hardware Security </li>
+   </ul>
+   </li>
+and many more...
+</ul>
+## Conclusions
+
+Learning Verilog would certainly open a lot of opportunities for you. Those who will be trying for summer research internships during 2nd year and are interested in research statements involving knowledge of digital may also list any/each of these implementations as singular short projects under the "personal projects" section of your CV. This will certainly increase your chances of selection if you don't have any other relevant projects to show.
+
+
 
 <br>
 <br>
