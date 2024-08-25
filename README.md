@@ -94,7 +94,7 @@ With this step, you have covered almost all basic digital components. Now it is 
    10. If you have been able to succesfully implement all the above steps, **then congrats! you have successfully learned to design a system and implement it on Verilog! Proud of You!**
 With this step, you have understood how to design intermediate-level systems and that is commendable.
 
-Could you answer these questions?
+Could you answer these questions? <br>
 **In some cases like basic sequential circuits like flip flops, it is impossible to run implementation or generate bitstream for Gate Level or Dataflow Level design. For these behavioral design should only be used: Why?*
 
 ***I had this error quite a few times, can you avoid it? How?*
