@@ -58,11 +58,11 @@ Try applying you knowledge from the lectures and you own understanding. Please r
 4. **Vivado:** After covering HDLBits, you are supposed to move on to vivado.
 5. **Assignments:** Try replicating MKN Sir's assignments in Vivado using all the knowledge you have gained till now.
    Let's take an example to illustrate the process:-
-   1. Let's say you were given a multiplexer to design in digital lab.
+   1. Let's say you were given a multiplexer to implement using ICs during last week's lab session.
    2. Now you need to design the same in Verilog.
    3. Write codes for:-
-      a) Gate Level Implementation*
-      b) Dataflow Level Implementation*
+      a) Gate Level Implementation
+      b) Dataflow Level Implementation
       c) Behavioral Implementation
    4. Write the testbench code and perform a simulation to achieve functional coverage.
    5. Elaborate the Design
@@ -70,28 +70,29 @@ Try applying you knowledge from the lectures and you own understanding. Please r
    7. Run Implementation for the design for each of the 3 types of codes. If some error or critical warnings for each of the 3 types of implementation, debug your code.
    8. Generate Bitstream for the code. This step will likely cause the most errors however having the knowledge and patience to debug them will be crucial.
    9. After successful bitstream generation, you may now enter the final and most rewarding step: **Coding an FPGA**
-      You would have to directly upload your bitstream onto an FPGA. If there are no logical errors, your implementation should work fine.
-   10. If you have been able to succesfully implement all the above steps, **then congrats! you have successfully learned to use Verilog! and have just completed your first implementation! Proud of You!**
+      You would have to upload your bitstream onto an FPGA directly. If there are no logical errors, your implementation should work fine.
+   10. If you have been able to implement all the above steps successfully, **then congrats! you have successfully learned to use Verilog! and have just completed your first implementation! Proud of You!**
 With this step, you have covered almost all basic digital components. Now it is time to move into designing intermediate-level systems in Verilog.
 
 
 #### Digital Circuits II
 
 6. **Learning:** After digital-1, and after learning FSMs. Do the rest of the NPTEL Lectures [Link](https://www.youtube.com/playlist?list=PLJ5C_6qdAvBELELTSPgzYkQg3HgclQh-5)
-7. **System Design:** In Digital Logic Circuits II lab, with each lab try designing the given system with both the control unit (FSM) and logic unit (DataUnit).
+7. **System Design:** In the Digital Logic Circuits II lab, with each lab session try designing the given system with both the control unit (FSM) and logic unit (DataUnit).
 8. **Assignments:** Try replicating MKN Sir's assignments in Vivado using all the knowledge you have gained till now.
    Let's take an example to illustrate the process:-
-   1. Let's say you were given a Bus Based System to design in digital lab.
+   1. Let's say you were given a Bus Based System to be designed in the digital lab.
    2. Now you need to design the same in Verilog.
-   3. Write codes for Gate Level Implementation. Doing gate-level implementation will ensure the lower number of errors during synthesis and make your life much easier. Although doing behavioral coding may reduce the size of the code, but it is imperative as electronics students to have a grasp of the lower levels of abstractions (ie closer to the circuit). Also since you already have the gate-level coded modules from previous codes ready, so it is essentially a game of wiring up the different modules and components.
-   4. Write the testbench code and perform a simulation to achieve functional coverage.
-   5. Elaborate the Design
-   6. Run Synthesis for the design. If some errors or critical warnings for each of them, debug your code.
-   7. Run Implementation for the design. If some error or critical warnings for each of the 3 types of implementation, debug your code.
-   8. Generate Bitstream for the code. This step will likely cause the most errors however having the knowledge and patience to debug them will be crucial. Look out for the combinational loop error!**
-   9. After successful bitstream generation, you may now enter the final and most rewarding step: **Coding an FPGA**
-      You would have to directly upload your bitstream onto an FPGA. If there are no logical errors, your implementation should work fine.
-   10. If you have been able to succesfully implement all the above steps, **then congrats! you have successfully learned to design a system and implement it on Verilog! Proud of You!**
+   3. Before jumping into writing code, have the multisim implementation and the basic circuit diagram at hand. In Verilog, your task is to replicate the individual components and ensure all of them are connected appropriately.
+   4. Write codes for Gate Level Implementation. Doing gate-level implementation will ensure the lower number of errors during synthesis and make your life much easier. Although doing behavioral coding may reduce the size of the code, but it is imperative as electronics students to have a grasp of the lower levels of abstractions (ie closer to the circuit). Also since you already have the gate-level coded modules from previous codes ready, so it is essentially a game of wiring up the different modules and components.
+   5. Write the testbench code and perform a simulation to achieve functional coverage.
+   6. Elaborate the Design
+   7. Run Synthesis for the design. If some errors or critical warnings for each of them, debug your code.
+   8. Run Implementation for the design. If some error or critical warnings for each of the 3 types of implementation, debug your code.
+   9. Generate Bitstream for the code. This step will likely cause the most errors however having the knowledge and patience to debug them will be crucial. Look out for the combinational loop error!**
+   10. After successful bitstream generation, you may now enter the final and most rewarding step: **Coding an FPGA**
+      You would have to upload your bitstream onto an FPGA directly. If there are no logical errors, your implementation should work fine.
+   11. If you have been able to implement all the above steps successfully, **then congrats! you have successfully learned to design a system and implement it on Verilog! Proud of You!**
 With this step, you have understood how to design intermediate-level systems and that is commendable.
 
 Could you answer these questions? <br>
