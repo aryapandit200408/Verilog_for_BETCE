@@ -25,7 +25,7 @@ This would be very helpful for those who want to move forward in the digital ele
 4. [HDLbits Online Verilog Simulator](https://hdlbits.01xz.net/wiki/Iverilog)
 5. Icarus Verilog
 
-**Vivado is the easiest to use and lets you code Xilinx FPGAs (BASYS-3 FPGAs available at digital lab can be coded using this), however, if you have technology constraints you could always use online alternatives like EDA Playground*
+**Vivado is the easiest to use and lets you code Xilinx FPGAs (BASYS-3 FPGAs available at digital lab can be coded using this), however, if you have technology constraints you could always use online alternatives like EDA Playground.*
 
 
 
@@ -54,7 +54,7 @@ Try following only one of these resources whichever suits your style.
 1. **Prerequisites:** Have your Digital Circuits-1 concepts ready
 2. **Getting suited:** Go to [ProblemSets-HDLBits](https://hdlbits.01xz.net/wiki/Problem_sets) and attempt all the questions.
 Try applying you knowledge from the lectures and you own understanding. Please refrain from just getting the answer using chatgpt or the internet, without even trying.
-3. **Doubts:** At any point if you feel any doubt on a certain topic, revisit those parts from Samir Palnitkar's Book, ChipVerify's website, or the NPTEL Lecture
+3. **Doubts:** At any point if you feel any doubt on a certain topic, revisit those parts from Samir Palnitkar's Book, ChipVerify's website, or the NPTEL Lecture. You may even google it for example Verilog code for D-Flip Flop and compare the code with your own to know where you went wrong. Don't copy-paste the code to HDLbits, try to run it and pass all the test conditions on your own.
 4. **Vivado:** After covering HDLBits, you are supposed to move on to vivado.
 5. **Assignments:** Try replicating MKN Sir's assignments in Vivado using all the knowledge you have gained till now.
    Let's take an example to illustrate the process:-
@@ -122,7 +122,7 @@ and many more...
 </ul>
 ## Conclusions
 
-Learning Verilog would certainly open a lot of opportunities for you. Those who will be trying for summer research internships during 2nd year and are interested in research statements involving knowledge of digital may also list any/each of these implementations as singular short projects under the "personal projects" section of your CV. This will certainly increase your chances of selection if you don't have any other relevant projects to show.
+Learning Verilog would open a lot of opportunities for you. Those who will be trying for summer research internships during 2nd year and are interested in research statements involving knowledge of digital may also list any/each of these implementations as singular short projects under the "personal projects" section of your CV. This will certainly increase your chances of selection if you don't have any other relevant projects to show.
 
 
 
