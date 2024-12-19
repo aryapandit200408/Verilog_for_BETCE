@@ -121,6 +121,7 @@ If you wish to continue in the digital design domain, you may try some intermedi
    </li>
 and many more...
 </ul>
+
 ## Conclusions
 
 Learning Verilog would open a lot of opportunities for you. Those who will be trying for summer research internships during 2nd year and are interested in research statements involving knowledge of digital may also list any/each of these implementations as singular short projects under the "personal projects" section of your CV. This will certainly increase your chances of selection if you don't have any other relevant projects to show.
