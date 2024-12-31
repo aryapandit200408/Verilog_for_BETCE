@@ -54,9 +54,9 @@ Try following only one of these resources whichever suits your style.
 1. **Prerequisites:** Have your Digital Circuits-1 concepts ready
 2. **Getting suited:** Go to [ProblemSets-HDLBits](https://hdlbits.01xz.net/wiki/Problem_sets) and attempt all the questions.
 Try applying you knowledge from the lectures and you own understanding. Please refrain from just getting the answer using chatgpt or the internet, without even trying.
-3. **Doubts:** At any point if you feel any doubt on a certain topic, revisit those parts from Samir Palnitkar's Book, ChipVerify's website, or the NPTEL Lecture. You may even google it for example Verilog code for D-Flip Flop and compare the code with your own to know where you went wrong. Don't copy-paste the code to HDLbits, try to run it and pass all the test conditions on your own.
+3. **Doubts:** If you have any doubts about a certain topic, revisit those parts from Samir Palnitkar's Book, ChipVerify's website, or the NPTEL Lecture. You may even Google it, for example, the Verilog code for D-Flip Flop, and compare the code with your own to see where you went wrong. Don't copy-paste the code to HDLbits; try to run it and pass all the test conditions on your own.
 4. **Vivado:** After covering HDLBits, you are supposed to move on to vivado.
-5. **Assignments:** Try replicating MKN Sir's assignments in Vivado using all the knowledge you have gained till now.
+5. **Assignments:** You can try replicating MKN Sir's assignments in Vivado using all the knowledge you have gained till now.
    Let's take an example to illustrate the process:-
    1. Let's say you were given a multiplexer to implement using ICs during last week's lab session.
    2. Now you need to design the same in Verilog.
@@ -66,7 +66,7 @@ Try applying you knowledge from the lectures and you own understanding. Please r
       c) Behavioral Implementation
    4. Write the testbench code and perform a simulation to achieve functional coverage.
    5. Elaborate the Design
-   6. Run Synthesis for the design for each of the 3 types of codes. If some errors or critical warnings for each of them, debug your code.
+   6. Run Synthesis for the design for each of the 3 types of codes. If there will be some errors or critical warnings for each of them, debug your code.
    7. Run Implementation for the design for each of the 3 types of codes. If some error or critical warnings for each of the 3 types of implementation, debug your code.
    8. Generate Bitstream for the code. This step will likely cause the most errors however having the knowledge and patience to debug them will be crucial.
    9. After successful bitstream generation, you may now enter the final and most rewarding step: **Coding an FPGA**
@@ -100,9 +100,11 @@ Could you answer these questions? <br>
 
 ***I had this error quite a few times, can you avoid it? How?*
 
-## Further Steps
-If you wish to continue in the digital design domain, you may try some intermediate-level projects at this point. I have listed down some paths that you could embark on.
-<ul> 
+## Further Reading
+
+
+### Research Prospects
+If you aspire to pursue research in the digital design domain, this is a great time to explore intermediate-level projects. Here are some potential paths you can consider<ul> 
    <li> Exploring FPGAs 
    <ul> 
       <li> Digital Signal Processing Applications on FPGA </li>
@@ -119,7 +121,7 @@ If you wish to continue in the digital design domain, you may try some intermedi
       <li> Exploring Hardware Security </li>
    </ul>
    </li>
-and many more...
+This list is by no means exhaustive. You can join forums like r/FPGA or search for papers on Google Scholar to learn more!
 </ul>
 
 ## Conclusions
