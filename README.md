@@ -99,14 +99,6 @@ Could you answer these questions? <br>
 **In some cases like basic sequential circuits like flip flops, it is impossible to run implementation or generate bitstream for Gate Level or Dataflow Level design. For these behavioral design should only be used: Why?*
 
 ***I had this error quite a few times, can you avoid it? How?*
-
-
-## Operating the Digilent BASYS-3 FPGA
-
-<p align="center">
-![image](https://github.com/user-attachments/assets/e365067a-f4ee-4f91-a4fc-fa5f6ac1c66d)
-Image from ![Digilent](https://digilent.com/reference/_media/reference/programmable-logic/basys-3/basys3_rm.pdf)
-</p>
       
 
 
