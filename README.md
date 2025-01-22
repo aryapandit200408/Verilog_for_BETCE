@@ -100,6 +100,41 @@ Could you answer these questions? <br>
 
 ***I had this error quite a few times, can you avoid it? How?*
 
+
+## Operating the Digilent BASYS-3 FPGA
+
+<p align="center">
+![image](https://github.com/user-attachments/assets/e365067a-f4ee-4f91-a4fc-fa5f6ac1c66d)
+Image from ![Digilent](https://digilent.com/reference/_media/reference/programmable-logic/basys-3/basys3_rm.pdf)
+</p>
+
+Let us take the easiest of examples a Half Adder Design:-
+1. Power up Vivado and create file
+![image](https://github.com/user-attachments/assets/1212770a-4ef7-4d72-8fbf-a9716c3ef94c)
+![image](https://github.com/user-attachments/assets/65447d7a-c39a-4d0e-9a59-01c359fd9554)
+![image](https://github.com/user-attachments/assets/ee808574-ba40-4017-b11e-590c5e55d895)
+
+
+3. Make a module, half_adder.v and save it as top
+```v
+   module half_adder (
+    input wire a,       // First input
+    input wire b,       // Second input
+    output wire sum,    // Sum output
+    output wire carry   // Carry output
+   );
+
+    // Logic for Sum and Carry
+    assign sum = a ^ b;      // XOR gate for Sum
+    assign carry = a & b;    // AND gate for Carry
+
+endmodule
+```
+
+2. 
+
+
+
 ## Further Reading
 
 
