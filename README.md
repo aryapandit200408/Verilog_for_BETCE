@@ -100,6 +100,9 @@ Could you answer these questions? <br>
 
 ***I had this error quite a few times, can you avoid it? How?*
 
+## How to Program in Vivado? How can I code the FPGA?
+For this follow this ![video](https://www.youtube.com/watch?v=K3miHPhri50)
+
 ## Further Reading
 
 
