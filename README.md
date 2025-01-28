@@ -107,7 +107,7 @@ For this follow this [video](https://www.youtube.com/watch?v=K3miHPhri50)
 
 
 ### Research Prospects
-If you aspire to pursue research in the digital design domain, this is a great time to explore intermediate-level projects. Here are some potential paths you can consider<ul> 
+If you aspire to pursue research in the digital design domain, this is a great time to explore research projects. Here are some potential paths you can consider<ul> 
    <li> Exploring FPGAs 
    <ul> 
       <li> Digital Signal Processing Applications on FPGA </li>
